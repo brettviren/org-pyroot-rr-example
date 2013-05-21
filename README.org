@@ -1,0 +1,7 @@
+An example of using Emacs org-mode and PyROOT to implement Reproducible Research
+
+* Overview
+
+This repository holds an example of using Emacs org-mode to implement Reproducible Research patterns using analysis implemented in PyROOT.
+
+
